@@ -20,7 +20,7 @@ This is a task gotten from Frontend Mentor to build a Clipboard Landing Page to 
 
 ### Links
 
-- Live Site URL:(https://peterforyou.github.io/Clipboard-Landing-page/)
+- Live Site URL:(https://clipboard-peter-bit.netlify.app/)
 
 ### Built with
 
