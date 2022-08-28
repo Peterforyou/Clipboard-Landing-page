@@ -1,0 +1,122 @@
+.section-1 img {
+    width: 40rem;
+    margin-right: 5rem;
+}
+.section-component {
+    width: 20rem;
+    padding-top: 3rem;
+}
+.section-4 {
+    max-width: 70rem;
+    margin: 0 auto;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    gap: 0rem 3rem;
+    padding: 0rem 1rem;
+    padding-bottom: 5rem;
+}
+.section-4 img {
+    width: 10rem;
+    height: 3rem;
+}
+.footer-wrap {
+    max-width: 70rem;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 5fr 1fr;
+    padding: 2rem 1rem;
+}
+.closure {
+    display: flex;
+    gap: 0rem 5rem;
+}
+@media screen and (max-width: 650px) {
+    .section-1 img {
+        width: 30rem;
+        height: 30rem;
+        margin-right: 2rem;
+    }
+    .section-component {
+        width: 20rem;
+        padding-top: 3rem;
+    }
+    .section-component p {
+        padding-bottom: 2rem;
+        font-size: 1rem;
+        padding-top: 0.3rem;
+    }
+    .section-component h3 {
+        font-size: 1.5rem;
+    }
+    .showcase {
+        text-align: center;
+        width: 40rem;
+        padding-bottom: 1rem;
+        max-width: 60rem;
+        margin: 0 auto;
+    }
+    .track {
+        text-align: center;
+        width: 40rem;
+        margin: 0 auto;
+        padding: 3rem 0rem;
+        max-width: 60rem;
+    }
+    .section-4 {
+        max-width: 60rem;
+        margin: 0 auto;
+        text-align: center;
+        display: flex;
+        justify-content: center;
+        gap: 0rem 2rem;
+        padding: 0rem 1rem;
+        padding-bottom: 5rem;
+    }
+    .section-4 img {
+        width: 7rem;
+        height: 2rem;
+    }
+    .work {
+        text-align: center;
+        width: 40rem;
+        margin: 0 auto;
+        padding-top: 5rem;
+        padding-bottom: 5rem;
+        max-width: 60rem;
+    }
+    .access {
+        text-align: center;
+        width: 40rem;
+        margin: 0 auto;
+        padding-top: 7rem;
+        padding-bottom: 3rem;
+        max-width: 90rem;
+    }
+    .device {
+        width: 40rem;
+        margin: 0 auto;
+    }
+    .device img {
+        width: 100%;
+    }
+    .section-5 {
+        text-align: center;
+        width: 40rem;
+        margin: 0 auto;
+        padding-top: 5rem;
+        padding-bottom: 5rem;
+        max-width: 60rem;   
+    }
+    .footer-wrap {
+        max-width: 60rem;
+        margin: 0 auto;
+        display: grid;
+        grid-template-columns: 5fr 1fr;
+        padding: 2rem 1rem;
+    }
+    .closure {
+        display: flex;
+        gap: 0rem 2rem;
+    }
+}

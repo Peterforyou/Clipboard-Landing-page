@@ -1,0 +1,186 @@
+.header-logo img {
+    padding: 5rem 0rem;
+    margin: 0 auto;
+    display: flex;
+    width: 10rem;
+}
+p {
+    font-size: 1rem;
+}
+.showcase {
+    text-align: center;
+    width: 35rem;
+    padding-bottom: 1rem;
+    max-width: 40rem;
+    margin: 0 auto;
+    padding: 0rem 2rem;
+}
+.showcase h1 {
+    font-size: 2.5rem;
+    padding-bottom: 0.8rem;
+}
+.btn-green {
+    padding: 1rem 2rem;
+    background-color: hsl(171, 66%, 44%);
+    border: none;
+    border-radius: 1.5rem;
+    color: #fff;
+    margin-right: 1rem;
+    cursor: pointer;
+    display: block;
+    margin: 1rem auto;
+}
+.track {
+    text-align: center;
+    width: 35rem;
+    margin: 0 auto;
+    padding: 5rem 0rem;
+    padding-bottom: 3rem;
+    max-width: 40rem;
+}
+.track h1 {
+    padding-bottom: 1rem;
+    font-size: 2rem;
+}
+.section-1 {
+    display: flex;
+    flex-direction: column;
+}
+.section-1 img {
+    width: 35rem;
+    margin-right: 0rem;
+    display: block;
+    margin: 0 auto;
+    max-width: 40rem;
+}
+.section-component {
+    width: 35rem;
+    padding-top: 3rem;
+    display: block;
+    text-align: center;
+    max-width: 40rem;
+    margin: 0 auto;
+}
+.section-component p {
+    padding-bottom: 4rem;
+    font-size: 1.2rem;
+    padding-top: 0.3rem;
+    width: 30rem;
+    margin: 0 auto;
+}
+.section-component h3 {
+    font-size: 1.9rem;
+}
+.access {
+    text-align: center;
+    width: 30rem;
+    margin: 0 auto;
+    padding-top: 7rem;
+    padding-bottom: 3rem;
+    max-width: 40rem;
+}
+.access h1 {
+    font-size: 2rem;
+}
+.device {
+    width: 35rem;
+    margin: 0 auto;
+}
+.work {
+    text-align: center;
+    width: 30rem;
+    margin: 0 auto;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    max-width: 40rem;
+}
+.work h1 {
+    font-size: 2.5rem;
+    padding-bottom: 0.8rem;
+}
+.eye {
+    display: flex;
+    flex-direction: column;
+    max-width: 40rem;
+    margin: 0 auto;
+    text-align: center;
+    gap: 2rem 0rem;
+    padding-bottom: 7rem;
+}
+.eye p {
+    padding-bottom: 2rem;
+    width: 30rem;
+    margin: 0 auto;
+}
+.section-4 {
+    max-width: 40rem;
+    margin: 0 auto;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 5rem 0rem;
+    padding: 0rem 1rem;
+    padding-bottom: 5rem;
+    align-items: center;
+}
+.section-4 img {
+    width: 12rem;
+    height: 3rem;
+}
+.section-5 {
+    text-align: center;
+    width: 30rem;
+    margin: 0 auto;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    max-width: 40rem;   
+}
+.section-5 h1 {
+    font-size: 2rem;
+    padding-bottom: 1rem;
+}
+.section-5 p {
+    padding-bottom: 1rem;
+}
+.footer-wrap {
+    max-width: 40rem;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 1fr;
+    padding: 2rem 0rem;
+}
+.closure {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 2rem 0rem;
+    text-align: center;
+    align-items: center;
+}
+.closure p {
+    padding-bottom: 3rem;
+}
+.faq {
+    transform: translateY(1rem);
+}
+.install {
+    margin-top: -3.8rem;
+}
+.press {
+    transform: translateY(-1rem);
+}
+.social {
+    padding-top: 1rem;
+    max-width: 40rem;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 0rem 2rem;
+}
+.social img {
+    padding-right: 0rem;
+    gap: 0rem 2rem;
+    width: 2.5rem;
+}

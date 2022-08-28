@@ -1,0 +1,202 @@
+* {
+    padding: 0rem;
+    margin: 0rem;
+    box-sizing: border-box;
+}
+html {
+    font-size: 62.5%;
+}
+body {
+    font-family: 'Bai Jamjuree', sans-serif;
+}
+.header-logo{
+    background: url(./images/bg-header-desktop.png) no-repeat top center/cover;    
+}
+p {
+    font-size: 1.2rem;
+}
+.header-logo img {
+    padding: 5rem 0rem;
+    margin: 0 auto;
+    display: flex;
+}
+.showcase {
+    text-align: center;
+    width: 50rem;
+    padding-bottom: 1rem;
+    max-width: 90rem;
+    margin: 0 auto;
+}
+.showcase h1 {
+    font-size: 3rem;
+    padding-bottom: 0.8rem;
+}
+.button-cover {
+    margin: 2rem auto;
+    text-align: center;
+    padding-bottom: 1rem;
+}
+.btn-green {
+    padding: 1rem 2rem;
+    background-color: hsl(171, 66%, 44%);
+    border: none;
+    border-radius: 1.5rem;
+    color: #fff;
+    margin-right: 1rem;
+    cursor: pointer;
+}
+.btn-green:hover {
+    box-shadow: 0rem 0.9rem 0.2rem hsla(171, 66%, 44%, 0.108);
+}
+.btn-blue {
+    padding: 1rem 2rem;
+    background-color: hsl(233, 100%, 69%);
+    border: none;
+    border-radius: 1.5rem;
+    color: #fff;
+    cursor: pointer;
+}
+.btn-blue:hover {
+    box-shadow: 0rem 0.9rem 0.2rem hsla(233, 100%, 69%, 0.126);
+}
+.track {
+    text-align: center;
+    width: 50rem;
+    margin: 0 auto;
+    padding: 3rem 0rem;
+    max-width: 90rem;
+}
+.track h1 {
+    padding-bottom: 1rem;
+    font-size: 2.5rem;
+}
+.section-1 {
+    display: flex;
+    overflow: hidden;
+}
+.section-1 img {
+    width: 50rem;
+    margin-right: 12rem;
+}
+.section-component {
+    width: 25rem;
+    padding-top: 3rem;
+}
+.section-component p {
+    padding-bottom: 4rem;
+    font-size: 1.2rem;
+    padding-top: 0.3rem;
+}
+.section-component h3 {
+    font-size: 1.9rem;
+}
+.access {
+    text-align: center;
+    width: 50rem;
+    margin: 0 auto;
+    padding-top: 7rem;
+    padding-bottom: 3rem;
+    max-width: 90rem;
+}
+.access h1 {
+    font-size: 2.5rem;
+}
+.device {
+    width: 50rem;
+    margin: 0 auto;
+}
+.device img {
+    width: 100%;
+}
+.work {
+    text-align: center;
+    width: 50rem;
+    margin: 0 auto;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    max-width: 90rem;
+}
+.work h1 {
+    font-size: 2.5rem;
+    padding-bottom: 0.8rem;
+}
+.eye {
+    display: flex;
+    max-width: 90rem;
+    margin: 0 auto;
+    text-align: center;
+    gap: 0rem 2rem;
+    padding-bottom: 7rem;
+}
+.eye img {
+    width: 3rem;
+    padding-bottom: 2rem;
+}
+.preview img {
+    margin-top: 0.7rem;
+}
+.eye h2 {
+    padding-bottom: 1rem;
+}
+.section-4 {
+    max-width: 90rem;
+    margin: 0 auto;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    gap: 0rem 5rem;
+    padding: 0rem 1rem;
+    padding-bottom: 5rem;
+}
+.section-4 img {
+    width: 13rem;
+    height: 3rem;
+}
+.section-5 {
+    text-align: center;
+    width: 50rem;
+    margin: 0 auto;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    max-width: 90rem;   
+}
+.section-5 h1 {
+    font-size: 2.5rem;
+    padding-bottom: 1rem;
+}
+.section-5 p {
+    padding-bottom: 1rem;
+}
+.footer {
+    background-color:  hsla(202, 11%, 66%, 0.374);
+}
+a {
+    text-decoration: none;
+    color: #000;
+}
+a:hover {
+    color: hsl(171, 66%, 44%);
+}
+.footer-wrap {
+    max-width: 90rem;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 5fr 1fr;
+    padding: 2rem 1rem;
+}
+.closure {
+    display: flex;
+    gap: 0rem 10rem;
+}
+.closure img {
+    width: 3rem;
+}
+.social {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.social img {
+    padding-right: 1rem;
+    width: 2.5rem;
+}
