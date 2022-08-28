@@ -20,7 +20,7 @@ This is a task gotten from Frontend Mentor to build a Clipboard Landing Page to 
 
 ### Links
 
-- Live Site URL:(https://peterforyou.github.io/Huddle-landing-page/)
+- Live Site URL:(https://peterforyou.github.io/Clipboard-Landing-page/)
 
 ### Built with
 
